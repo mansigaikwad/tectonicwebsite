@@ -110,12 +110,13 @@
 .navbar .navbar-brand img {
     /* max-height: 60px; */
     /* height: 15%; */
-    max-height: 20%;
+    max-height: 25%;
     transition: .5s;
 }
 
 .sticky-top.navbar .navbar-brand img {
-    max-height: 45px;
+    max-height: 200px;
+    /* max-height: 5%; */
 }
 
 @media (max-width: 991.98px) {
