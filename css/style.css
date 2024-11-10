@@ -108,7 +108,7 @@
 }
 
 .navbar .navbar-brand img {
-    max-height: 120px;
+    max-height: 20%;
     transition: .5s;
 }
 
